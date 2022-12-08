@@ -22,6 +22,23 @@
                     "borrowed": false
               }
               
-           ]
-    
+           ],
+    "users":[
+        {
+            "id": 1,
+            "username": "A",
+            "fullname":"a",
+            "image":"https://pravatar.cc/1",
+            "email": "a@gmail.com",
+            "password":"a"
+          },
+          {
+            "id": 2,
+            "username": "B",
+            "fullname":"b",
+            "image":"https://pravatar.cc/2",
+            "email": "b@gmail.com",
+            "password":"b"
+          }
+    ]
 }
