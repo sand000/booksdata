@@ -65,5 +65,12 @@
         "position": "Junior Frontend Developer",
         "language": "Java"
       }
+    ],
+    "notes":[
+      {
+        "id":"1",
+        "title":"react",
+        "description":"frontend"
+      }
     ]
 }
